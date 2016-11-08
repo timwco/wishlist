@@ -11,7 +11,9 @@
     { link: 'http://l.timw.co/2eHfXda', title: 'India Pale Ale Experiment'},
     { link: 'http://l.timw.co/2eHocpz', title: 'Glencairn Crystal'},
     { link: 'http://l.timw.co/2eHjAQ1', title: 'Rosewill Mechanical Keyboard (Cherry MX Brown)'},
-    { link: 'http://l.timw.co/2fBlGP1', title: 'Nintendo NES Classic'}
+    { link: 'http://l.timw.co/2fBlGP1', title: 'Nintendo NES Classic'},
+    { link: 'http://l.timw.co/2eB1CLT', title: 'Wireles NES Controller'},
+    { link: 'http://l.timw.co/2fwlFNO', title: 'Amelie Poster'}
   ];
 
   const wlCont = document.getElementById('wishlist');
