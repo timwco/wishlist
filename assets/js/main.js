@@ -8,7 +8,8 @@
     { link: 'http://l.timw.co/2eHmqot', title: 'Electric Tea Kettle'},
     { link: 'http://l.timw.co/2eHocpz', title: 'Glencairn Crystal'},
     { link: 'http://l.timw.co/2eHjAQ1', title: 'Rosewill Mechanical Keyboard (Cherry MX Brown)'},
-    { link: '', title: ''}
+    { link: 'http://l.timw.co/2fBlWOm', title: 'Lodge Cast Iron Dutch Oven (6 Quart)'},
+    { link: 'http://l.timw.co/2fBlmjl', title: 'Tramontina Non-Stick Pan (14")'}
   ];
 
   const wlCont = document.getElementById('wishlist');
