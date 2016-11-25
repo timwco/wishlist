@@ -3,9 +3,8 @@
   'use strict';
 
   const wishlist = [
-    { link: 'http://l.timw.co/2eHigg0', title: 'Alton Brown: EveryDayCook'},
-    { link: 'http://l.timw.co/2eHmqot', title: 'Electric Tea Kettle'},
     { link: 'http://l.timw.co/2fBlWOm', title: 'Lodge Cast Iron Dutch Oven (6 Quart)'},
+    { link: 'http://l.timw.co/2g0yz94', title: 'Code & Quill Origin (Black)'},
     { link: 'http://l.timw.co/2fBlmjl', title: 'Tramontina Non-Stick Pan (14")'},
     { link: 'http://l.timw.co/2fBjdnM', title: '3-Blade Spiralizer'},
     { link: 'http://l.timw.co/2eHfXda', title: 'India Pale Ale Experiment'},
