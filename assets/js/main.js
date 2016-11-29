@@ -12,7 +12,8 @@
     { link: 'http://l.timw.co/2eHjAQ1', title: 'Rosewill Mechanical Keyboard (Cherry MX Brown)'},
     { link: 'http://l.timw.co/2fBlGP1', title: 'Nintendo NES Classic'},
     { link: 'http://l.timw.co/2eB1CLT', title: 'Wireles NES Controller'},
-    { link: 'http://l.timw.co/2fwlFNO', title: 'Amelie Poster'}
+    { link: 'http://l.timw.co/2fwlFNO', title: 'Amelie Poster'},
+    { link: 'http://l.timw.co/2gfN9cT', title: 'Landmark Project - Hat'}
   ];
 
   const wlCont = document.getElementById('wishlist');
