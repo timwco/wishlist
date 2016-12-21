@@ -14,11 +14,6 @@
       [
         { link: 'http://l.timw.co/2eHocpz', title: 'Glencairn Crystal'},
         { link: 'http://l.timw.co/2eHfXda', title: 'India Pale Ale Experiment'},
-        { link: 'http://l.timw.co/2gloS2c', title: 'Fee Brothers - Rhubarb Bitters'},
-        { link: 'http://l.timw.co/2gllODg', title: 'Fee Brothers - Grapefruit Bitters'},
-        { link: 'http://l.timw.co/2glvygU', title: 'Bar Spoon (not picky, any work)' },
-        { link: 'http://l.timw.co/2glrjSh', title: 'Sweet Vermouth'},
-        { link: 'http://l.timw.co/2glqUPS', title: 'Campari' }
       ]
     },
     { title: 'Kitchen', items: 
@@ -38,7 +33,7 @@
     { title: 'Misc', items: 
       [
         { link: 'http://l.timw.co/2fwlFNO', title: 'Amelie Poster'},
-        { link: 'http://l.timw.co/2gfN9cT', title: 'Landmark Project - Hat'}
+        { link: 'http://l.timw.co/2i8dxa6', title: 'Cotopaxi Trucker Hat'}
       ]
     }
   ];
