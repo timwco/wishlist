@@ -5,7 +5,6 @@
   const wishlist = [
     { title: 'Books', items: 
       [
-        { link: 'http://l.timw.co/2g0yz94', title: 'Code & Quill Origin (Black)'},
         { link: 'http://l.timw.co/2glqKb2', title: 'Shake: A New Perspective on Cocktails'},
         { link: 'http://l.timw.co/2gloMYB', title: 'The 12 Bottle Bar'}
       ]
@@ -19,21 +18,16 @@
     { title: 'Kitchen', items: 
       [
         { link: 'http://l.timw.co/2fBlWOm', title: 'Lodge Cast Iron Dutch Oven (6 Quart)'},
-        { link: 'http://l.timw.co/2fBlmjl', title: 'Tramontina Non-Stick Pan (14")'},
-        { link: 'http://l.timw.co/2fBjdnM', title: '3-Blade Spiralizer'}
       ]
     },
     { title: 'Tech', items: 
       [
-        { link: 'http://l.timw.co/2eHjAQ1', title: 'Rosewill Mechanical Keyboard (Cherry MX Brown)'},
-        { link: 'http://l.timw.co/2fBlGP1', title: 'Nintendo NES Classic'},
-        { link: 'http://l.timw.co/2eB1CLT', title: 'Wireles NES Controller'}
+        { link: 'http://l.timw.co/2stTPZ3', title: 'Xbox One Games & Stuff'}
       ]
     },
     { title: 'Misc', items: 
       [
         { link: 'http://l.timw.co/2fwlFNO', title: 'Amelie Poster'},
-        { link: 'http://l.timw.co/2i8dxa6', title: 'Cotopaxi Trucker Hat'}
       ]
     }
   ];
