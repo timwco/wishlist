@@ -8151,10 +8151,10 @@ var _user$project$WishList$list = {
 		title: 'Books',
 		items: {
 			ctor: '::',
-			_0: {link: 'http = //l.timw.co/2glqKb2', title: 'Shake:  A New Perspective on Cocktails'},
+			_0: {link: 'http://l.timw.co/2glqKb2', title: 'Shake:  A New Perspective on Cocktails'},
 			_1: {
 				ctor: '::',
-				_0: {link: 'http = //l.timw.co/2gloMYB', title: 'The 12 Bottle Bar'},
+				_0: {link: 'http://l.timw.co/2gloMYB', title: 'The 12 Bottle Bar'},
 				_1: {ctor: '[]'}
 			}
 		}
@@ -8165,10 +8165,10 @@ var _user$project$WishList$list = {
 			title: 'Bar',
 			items: {
 				ctor: '::',
-				_0: {link: 'http = //l.timw.co/2eHocpz', title: 'Glencairn Crystal'},
+				_0: {link: 'http://l.timw.co/2eHocpz', title: 'Glencairn Crystal'},
 				_1: {
 					ctor: '::',
-					_0: {link: 'http = //l.timw.co/2eHfXda', title: 'India Pale Ale Experiment'},
+					_0: {link: 'http://l.timw.co/2eHfXda', title: 'India Pale Ale Experiment'},
 					_1: {ctor: '[]'}
 				}
 			}
@@ -8179,7 +8179,7 @@ var _user$project$WishList$list = {
 				title: 'Kitchen',
 				items: {
 					ctor: '::',
-					_0: {link: 'http = //l.timw.co/2fBlWOm', title: 'Lodge Cast Iron Dutch Oven (6 Quart)'},
+					_0: {link: 'http://l.timw.co/2fBlWOm', title: 'Lodge Cast Iron Dutch Oven (6 Quart)'},
 					_1: {ctor: '[]'}
 				}
 			},
@@ -8189,7 +8189,7 @@ var _user$project$WishList$list = {
 					title: 'Tech',
 					items: {
 						ctor: '::',
-						_0: {link: 'http = //l.timw.co/2stTPZ3', title: 'Xbox One Games & Stuff'},
+						_0: {link: 'http://l.timw.co/2stTPZ3', title: 'Xbox One Games & Stuff'},
 						_1: {ctor: '[]'}
 					}
 				},
@@ -8199,7 +8199,7 @@ var _user$project$WishList$list = {
 						title: 'Misc',
 						items: {
 							ctor: '::',
-							_0: {link: 'http = //l.timw.co/2fwlFNO', title: 'Amelie Poster'},
+							_0: {link: 'http://l.timw.co/2fwlFNO', title: 'Amelie Poster'},
 							_1: {ctor: '[]'}
 						}
 					},
