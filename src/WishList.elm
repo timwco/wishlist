@@ -4,9 +4,10 @@ module WishList exposing (list)
 list =
     [ { title = "Books"
       , items =
-            [ { link = "http://l.timw.co/2glqKb2", title = "Shake:  A New Perspective on Cocktails" }
-            , { link = "http://l.timw.co/2gloMYB", title = "The 12 Bottle Bar" }
-            ]
+        [
+          { link = "https://l.timw.co/2qbfMf9", title = "Eat What You Watch" }
+        , { link = "https://l.timw.co/2qdXj1b", title = "Essential Scratch & Sniff Guide" }
+        ]
       }
     , { title = "Bar"
       , items =
@@ -16,7 +17,8 @@ list =
       }
     , { title = "Kitchen"
       , items =
-            [ { link = "http://l.timw.co/2fBlWOm", title = "Lodge Cast Iron Dutch Oven (6 Quart)" }
+            [ { link = "https://l.timw.co/2CFzZRB", title = "Tramontina 8\" Fry Pan" }
+            , { link = "https://l.timw.co/2q8tjnz", title = "Tramontina 12\" Fry Pan" }
             ]
       }
     , { title = "Tech"
@@ -24,7 +26,13 @@ list =
             [ { link = "http://l.timw.co/2stTPZ3", title = "Xbox One Games & Stuff" }
             ]
       }
-    , { title = "Misc"
+    , { title = "Apparel"
+      , items =
+            [ { link = "https://l.timw.co/2CFeccB", title = "MeUndies Gift Card" }
+            , { link = "https://l.timw.co/2CEmnpD", title = "Men's Wool Runners" }
+            ]
+      }
+    , { title = "Collectables"
       , items =
             [ { link = "http://l.timw.co/2fwlFNO", title = "Amelie Poster" }
             ]
