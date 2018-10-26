@@ -8151,10 +8151,10 @@ var _user$project$WishList$list = {
 		title: 'Books',
 		items: {
 			ctor: '::',
-			_0: {link: 'http://l.timw.co/2glqKb2', title: 'Shake:  A New Perspective on Cocktails'},
+			_0: {link: 'https://l.timw.co/2qbfMf9', title: 'Eat What You Watch'},
 			_1: {
 				ctor: '::',
-				_0: {link: 'http://l.timw.co/2gloMYB', title: 'The 12 Bottle Bar'},
+				_0: {link: 'https://l.timw.co/2qdXj1b', title: 'Essential Scratch & Sniff Guide'},
 				_1: {ctor: '[]'}
 			}
 		}
@@ -8179,8 +8179,12 @@ var _user$project$WishList$list = {
 				title: 'Kitchen',
 				items: {
 					ctor: '::',
-					_0: {link: 'http://l.timw.co/2fBlWOm', title: 'Lodge Cast Iron Dutch Oven (6 Quart)'},
-					_1: {ctor: '[]'}
+					_0: {link: 'https://l.timw.co/2CFzZRB', title: 'Tramontina 8\" Fry Pan'},
+					_1: {
+						ctor: '::',
+						_0: {link: 'https://l.timw.co/2q8tjnz', title: 'Tramontina 12\" Fry Pan'},
+						_1: {ctor: '[]'}
+					}
 				}
 			},
 			_1: {
@@ -8196,14 +8200,29 @@ var _user$project$WishList$list = {
 				_1: {
 					ctor: '::',
 					_0: {
-						title: 'Misc',
+						title: 'Apparel',
 						items: {
 							ctor: '::',
-							_0: {link: 'http://l.timw.co/2fwlFNO', title: 'Amelie Poster'},
-							_1: {ctor: '[]'}
+							_0: {link: 'https://l.timw.co/2CFeccB', title: 'MeUndies Gift Card'},
+							_1: {
+								ctor: '::',
+								_0: {link: 'https://l.timw.co/2CEmnpD', title: 'Men\'s Wool Runners'},
+								_1: {ctor: '[]'}
+							}
 						}
 					},
-					_1: {ctor: '[]'}
+					_1: {
+						ctor: '::',
+						_0: {
+							title: 'Collectables',
+							items: {
+								ctor: '::',
+								_0: {link: 'http://l.timw.co/2fwlFNO', title: 'Amelie Poster'},
+								_1: {ctor: '[]'}
+							}
+						},
+						_1: {ctor: '[]'}
+					}
 				}
 			}
 		}
