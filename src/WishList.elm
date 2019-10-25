@@ -7,12 +7,13 @@ list =
         [ { link = "https://l.timw.co/2FuIbqK", title = "Pretty Much Everything" }
         , { link = "https://www.audible.com/ep/giftcenter", title = "Audible Credits" }
         ]
-      { title = "Kitchen" }
+    }
+    , { title = "Kitchen"
       , items =
             [ { link = "https://l.timw.co/2BIrYJZ", title = "Chemex Pour-Over"}
             , { link = "https://www.chefsteps.com/studiopass", title = "ChefSteps Studio Pass (Online Subscription)"}
             ]
-    , 
+    }
     , { title = "Tech"
       , items =
             [ { link = "https://www.oculus.com/quest/", title = "Oculus Quest" }
@@ -21,8 +22,7 @@ list =
             , { link = "https://l.timw.co/3402Bzj", title = "Echo Show 5" } 
             ]
       }
-    , {
-        title = "Games"
+    , { title = "Games"
       , items = 
             [ { link = "https://l.timw.co/365uEPE", title = "Clank" }
             , { link = "https://amzn.to/1NkTLMz", title = "Boss Monster" }
