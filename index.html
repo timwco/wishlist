@@ -24,10 +24,12 @@
     <div id="wishlist"></div>
   </div>
 
-  <script src="main.js"></script>
+  <script src="elm.min.js"></script>
   <script>
     const area = document.getElementById('wishlist');
-    Elm.Main.embed(area);
+    const app = Elm.Main.init({
+      node: area
+    });
   </script>
 </body>
 
