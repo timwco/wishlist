@@ -5,38 +5,30 @@ list =
     [ { title = "Books"
       , items =
         [ { link = "https://l.timw.co/2FuIbqK", title = "Pretty Much Everything" }
-        , { link = "https://l.timw.co/2qdXj1b", title = "Essential Scratch & Sniff Guide" }
+        , { link = "https://www.audible.com/ep/giftcenter", title = "Audible Credits" }
         ]
-      }
-    , { title = "Bar"
+      { title = "Kitchen" }
       , items =
-            [ { link = "https://l.timw.co/2FuW6xh", title = "Glencairn Crystal" }
-            , { link = "https://l.timw.co/2Fu2k0f", title= "Colonel E.H. Taylor Small Batch" }
-            , { link = "http://l.timw.co/2eHfXda", title = "India Pale Ale Experiment" }
+            [ { link = "https://l.timw.co/2BIrYJZ", title = "Chemex Pour-Over"}
+            , { link = "https://www.chefsteps.com/studiopass", title = "ChefSteps Studio Pass (Online Subscription)"}
             ]
-      }
+    , 
     , { title = "Tech"
       , items =
-            [ { link = "http://l.timw.co/2stTPZ3", title = "Xbox One Games & Stuff" }
-            ]
-      }
-    , { title = "Apparel"
-      , items =
-            [ { link = "https://l.timw.co/2CFeccB", title = "MeUndies Gift Card" }
-            , { link = "https://l.timw.co/2CEmnpD", title = "Men's Wool Runners" }
+            [ { link = "https://www.oculus.com/quest/", title = "Oculus Quest" }
+            , { link = "https://l.timw.co/2JmTr87", title = "Phone Photo Lens"}
+            , { link = "https://www.xbox.com/en-US/games/red-dead-redemption-2", title = "Red Dead Redemption 2"}
+            , { link = "https://l.timw.co/3402Bzj", title = "Echo Show 5" } 
             ]
       }
     , {
         title = "Games"
       , items = 
-            [ { link = "https://l.timw.co/2FswtwZ", title = "LifeBoat (The Card Game)" }
-
-            ]
-      }
-    , { title = "Random"
-      , items =
-            [ { link = "http://l.timw.co/2fwlFNO", title = "Amelie Poster" }
-            , { link = "https://l.timw.co/2FuHuxE", title = "Truff Hot Sauce" }
+            [ { link = "https://l.timw.co/365uEPE", title = "Clank" }
+            , { link = "https://amzn.to/1NkTLMz", title = "Boss Monster" }
+            , { link = "https://l.timw.co/2MKfho8", title = "Caper" }
+            , { link = "https://l.timw.co/2PjyazW", title = "7 Wonders Duel" }
+            , { link = "https://l.timw.co/2ogQQFw", title = "Great Western Trail" }
             ]
       }
     ]

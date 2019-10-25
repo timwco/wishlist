@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build our dist, just to make sure
-elm-make Main.elm --output ./dist/main.js
+elm-make ./src/Main.elm --output ./dist/main.js
 
 
 # Add & Commit & Deploy to GH Pages
