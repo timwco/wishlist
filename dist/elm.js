@@ -4514,23 +4514,8 @@ var author$project$WishList$list = _List_fromArray(
 		{
 		av: _List_fromArray(
 			[
-				{aw: 'https://l.timw.co/2FuIbqK', ai: 'Pretty Much Everything'},
-				{aw: 'https://www.audible.com/ep/giftcenter', ai: 'Audible Credits'}
-			]),
-		ai: 'Books'
-	},
-		{
-		av: _List_fromArray(
-			[
-				{aw: 'https://l.timw.co/2BIrYJZ', ai: 'Chemex Pour-Over'},
-				{aw: 'https://www.chefsteps.com/studiopass', ai: 'ChefSteps Studio Pass (Online Subscription)'}
-			]),
-		ai: 'Kitchen'
-	},
-		{
-		av: _List_fromArray(
-			[
 				{aw: 'https://www.oculus.com/quest/', ai: 'Oculus Quest'},
+				{aw: 'https://www.apple.com/airpods-pro/', ai: 'AirPods Pro'},
 				{aw: 'https://l.timw.co/2JmTr87', ai: 'Phone Photo Lens'},
 				{aw: 'https://www.xbox.com/en-US/games/red-dead-redemption-2', ai: 'Red Dead Redemption 2'},
 				{aw: 'https://l.timw.co/3402Bzj', ai: 'Echo Show 5'}
@@ -4547,6 +4532,22 @@ var author$project$WishList$list = _List_fromArray(
 				{aw: 'https://l.timw.co/2ogQQFw', ai: 'Great Western Trail'}
 			]),
 		ai: 'Games'
+	},
+		{
+		av: _List_fromArray(
+			[
+				{aw: 'https://l.timw.co/2FuIbqK', ai: 'Pretty Much Everything'},
+				{aw: 'https://www.audible.com/ep/giftcenter', ai: 'Audible Credits'}
+			]),
+		ai: 'Books'
+	},
+		{
+		av: _List_fromArray(
+			[
+				{aw: 'https://l.timw.co/2BIrYJZ', ai: 'Chemex Pour-Over'},
+				{aw: 'https://www.chefsteps.com/studiopass', ai: 'ChefSteps Studio Pass (Online Subscription)'}
+			]),
+		ai: 'Kitchen'
 	}
 	]);
 var author$project$Main$main = author$project$Template$render(author$project$WishList$list);
