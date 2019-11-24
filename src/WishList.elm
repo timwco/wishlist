@@ -5,10 +5,8 @@ list =
     [{ title = "Tech"
       , items =
             [ { link = "https://www.oculus.com/quest/", title = "Oculus Quest" }
-            , { link = "https://www.apple.com/airpods-pro/", title = "AirPods Pro" }
             , { link = "https://l.timw.co/2JmTr87", title = "Phone Photo Lens"}
             , { link = "https://www.xbox.com/en-US/games/red-dead-redemption-2", title = "Red Dead Redemption 2"}
-            , { link = "https://l.timw.co/3402Bzj", title = "Echo Show 5" } 
             ]
       }
     , { title = "Games"
@@ -26,10 +24,10 @@ list =
             , { link = "https://www.audible.com/ep/giftcenter", title = "Audible Credits" }
             ]
       }
-    , { title = "Kitchen"
+    , { title = "Subscriptions"
       , items =
-            [ { link = "https://l.timw.co/2BIrYJZ", title = "Chemex Pour-Over"}
-            , { link = "https://www.chefsteps.com/studiopass", title = "ChefSteps Studio Pass (Online Subscription)"}
+            [{ link = "https://www.chefsteps.com/studiopass", title = "ChefSteps Studio Pass"}
+            , { link = "https://flaviar.com/join", title = "Flaviar Club"}
             ]
       }
     ]
