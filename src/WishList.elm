@@ -2,32 +2,24 @@ module WishList exposing (list)
 
 
 list =
-    [{ title = "Tech"
-      , items =
-            [ { link = "https://www.oculus.com/quest/", title = "Oculus Quest" }
-            , { link = "https://l.timw.co/2JmTr87", title = "Phone Photo Lens"}
-            , { link = "https://www.xbox.com/en-US/games/red-dead-redemption-2", title = "Red Dead Redemption 2"}
+    [{ title = "Games"
+      , items = 
+            [ { link = "https://www.adventure.game/store", title = "Quest" }
+            , { link = "https://amzn.to/1NkTLMz", title = "Boss Monster" }
             ]
       }
-    , { title = "Games"
+    , { title = "Kitchen"
       , items = 
-            [ { link = "https://l.timw.co/365uEPE", title = "Clank" }
-            , { link = "https://amzn.to/1NkTLMz", title = "Boss Monster" }
-            , { link = "https://l.timw.co/2MKfho8", title = "Caper" }
-            , { link = "https://l.timw.co/2PjyazW", title = "7 Wonders Duel" }
-            , { link = "https://l.timw.co/2ogQQFw", title = "Great Western Trail" }
+            [ { link = "https://kankitchen.com/product/kan-core-chef-knife-8-inch-vg-10-67-layers-damascus-ambidextrous-hammered-vg-10-blade-g10-handle/", title = "KAN Chef Knife (Hammered, G10 handle)" }
+            , { link = "https://www.grillgrate.com/replacement-grillgrate-set-for-weber-spirit-200-series/", title = "GrillGrate for Webber" }
+            , { link = "https://www.kitchenaid.com/countertop-appliances/color-of-the-year/stand-mixers/p.artisan-series-5-quart-tilt-head-stand-mixer.ksm150pswh.html?", title = "KitchenAid : Artisan® Series 5 Quart (White)"}
             ]
       }
     , { title = "Books"
       , items =
             [ { link = "https://l.timw.co/2FuIbqK", title = "Pretty Much Everything" }
-            , { link = "https://www.audible.com/ep/giftcenter", title = "Audible Credits" }
-            ]
-      }
-    , { title = "Subscriptions"
-      , items =
-            [{ link = "https://www.chefsteps.com/studiopass", title = "ChefSteps Studio Pass"}
-            , { link = "https://flaviar.com/join", title = "Flaviar Club"}
+            , { link = "https://www.amazon.com/dp/0393081087/", title = "The Food Lab" }
+            , { link = "https://www.amazon.com/dp/030758772X", title = "The Essential Cuisines of Mexico" }
             ]
       }
     ]
