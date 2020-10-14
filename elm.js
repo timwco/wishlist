@@ -4514,38 +4514,28 @@ var author$project$WishList$list = _List_fromArray(
 		{
 		av: _List_fromArray(
 			[
-				{aw: 'https://www.oculus.com/quest/', ai: 'Oculus Quest'},
-				{aw: 'https://l.timw.co/2JmTr87', ai: 'Phone Photo Lens'},
-				{aw: 'https://www.xbox.com/en-US/games/red-dead-redemption-2', ai: 'Red Dead Redemption 2'}
-			]),
-		ai: 'Tech'
-	},
-		{
-		av: _List_fromArray(
-			[
-				{aw: 'https://l.timw.co/365uEPE', ai: 'Clank'},
-				{aw: 'https://amzn.to/1NkTLMz', ai: 'Boss Monster'},
-				{aw: 'https://l.timw.co/2MKfho8', ai: 'Caper'},
-				{aw: 'https://l.timw.co/2PjyazW', ai: '7 Wonders Duel'},
-				{aw: 'https://l.timw.co/2ogQQFw', ai: 'Great Western Trail'}
+				{aw: 'https://www.adventure.game/store', ai: 'Quest'},
+				{aw: 'https://amzn.to/1NkTLMz', ai: 'Boss Monster'}
 			]),
 		ai: 'Games'
 	},
 		{
 		av: _List_fromArray(
 			[
-				{aw: 'https://l.timw.co/2FuIbqK', ai: 'Pretty Much Everything'},
-				{aw: 'https://www.audible.com/ep/giftcenter', ai: 'Audible Credits'}
+				{aw: 'https://kankitchen.com/product/kan-core-chef-knife-8-inch-vg-10-67-layers-damascus-ambidextrous-hammered-vg-10-blade-g10-handle/', ai: 'KAN Chef Knife (Hammered, G10 handle)'},
+				{aw: 'https://www.grillgrate.com/replacement-grillgrate-set-for-weber-spirit-200-series/', ai: 'GrillGrate for Webber'},
+				{aw: 'https://www.kitchenaid.com/countertop-appliances/color-of-the-year/stand-mixers/p.artisan-series-5-quart-tilt-head-stand-mixer.ksm150pswh.html?', ai: 'KitchenAid : Artisan® Series 5 Quart (White)'}
 			]),
-		ai: 'Books'
+		ai: 'Kitchen'
 	},
 		{
 		av: _List_fromArray(
 			[
-				{aw: 'https://www.chefsteps.com/studiopass', ai: 'ChefSteps Studio Pass'},
-				{aw: 'https://flaviar.com/join', ai: 'Flaviar Club'}
+				{aw: 'https://l.timw.co/2FuIbqK', ai: 'Pretty Much Everything'},
+				{aw: 'https://www.amazon.com/dp/0393081087/', ai: 'The Food Lab'},
+				{aw: 'https://www.amazon.com/dp/030758772X', ai: 'The Essential Cuisines of Mexico'}
 			]),
-		ai: 'Subscriptions'
+		ai: 'Books'
 	}
 	]);
 var author$project$Main$main = author$project$Template$render(author$project$WishList$list);
